@@ -5,7 +5,7 @@ This project explores Airbnb listings data using Python for data analysis and vi
 
 The analysis involves data cleaning, transformation, and visualization using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
-🚀 Objectives
+🚀 Objectivess
 
 Understand Airbnb pricing trends across different neighborhoods
 
